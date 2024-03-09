@@ -1,0 +1,11 @@
+// Welcome message
+console.log("We're glad you're here! This readme file will help you understand the project's goals and how you can get involved.");
+
+// Project goals
+const projectGoals = "The goal of this project is to create a user-friendly application that promotes healthy living through exercise and nutrition.";
+
+// How to get involved
+const getInvolved = "There are many ways to get involved in this project, such as contributing code, testing the application, providing feedback, or spreading the word to others.";
+
+console.log("Project Goals: " + projectGoals);
+console.log("How to Get Involved: " + getInvolved);
